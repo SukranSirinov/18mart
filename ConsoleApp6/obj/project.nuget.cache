@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZdHIFFSwmfbbQ2d70IwCU6jRXXj3TzoV0epbHaddiB1FWa6Toa9Cathz3zfH5owfb+BFVbiS2uYk6q3NH0ygag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\ConsoleApp6\\ConsoleApp6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
